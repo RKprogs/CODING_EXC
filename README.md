@@ -14,3 +14,7 @@ Assignment 4 is Day 7
 Assignment 5 is Day 8
 
 Assignment 6 is Day 10
+
+**WEEK 3**
+
+Assignment 7 is Day 10
