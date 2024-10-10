@@ -1,4 +1,4 @@
-package com.Assignment;
+package com.Assignment1;
 
 public class Patterns {
     public static void main(String[] args) {
