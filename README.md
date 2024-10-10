@@ -17,4 +17,6 @@ Assignment 6 is Day 10
 
 **WEEK 3**
 
-Assignment 7 is Day 10
+Assignment 7 is Day 11
+
+Assignment 8 is Day 12
